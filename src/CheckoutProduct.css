@@ -1,5 +1,7 @@
 .checkoutProduct {
     display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .checkoutProduct__image {
@@ -10,7 +12,6 @@
 
 .checkoutProduct__info {
     padding-left: 20px;
-    color: black;
 }
 
 .checkoutProduct__title {
