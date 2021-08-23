@@ -1,7 +1,7 @@
 import firebase from "firebase";
 
 const firebaseApp = firebase.initializeApp({
-    apiKey: "AIzaSyDAsT28vEuEpptGOcvajs_Ft-bSqV9K3Wk",
+    apiKey: "",
     authDomain: "clone-a6032.firebaseapp.com",
     projectId: "clone-a6032",
     storageBucket: "clone-a6032.appspot.com",
